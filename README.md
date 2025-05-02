@@ -122,7 +122,7 @@ int main() {
 
 
 ## OUTPUT
-$ ./sem.o 
+$ ./sem.o
 
 ![image](https://github.com/user-attachments/assets/f23ab929-5e19-448a-ad5f-3c9dddbb9d69)
 
